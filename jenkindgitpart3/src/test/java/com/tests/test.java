@@ -8,7 +8,7 @@ public class test {
 		public void testcase1() {
 			
 			System.out.println("testcASE1");
-			
+			System.out.println("testcASE1");
 		}
 		@Test
 	public void testcase2() {
